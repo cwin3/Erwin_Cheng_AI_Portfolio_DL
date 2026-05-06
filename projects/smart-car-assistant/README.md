@@ -73,5 +73,5 @@ This AI system:
 * Designing AI systems end-to-end
 * Handling messy real-world data
 * Combining multiple models effectively
-# 🚗 Smart Car Buying Assistant
+
 
