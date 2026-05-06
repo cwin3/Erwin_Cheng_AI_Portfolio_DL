@@ -130,7 +130,7 @@ AI isn’t just about models—it’s about **clean data, smart design, and real
 ## 📬 Contact
 
 * GitHub: https://github.com/cwin3
-* Email: (add your email)
+* Email: egr.cheng@gmail.com
 
 ---
 
