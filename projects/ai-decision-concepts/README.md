@@ -1,12 +1,27 @@
-# 🤖 AI Decision Concepts
+# 🤖 How AI Makes Decisions
 
-## Core Ideas
+---
 
-* Weights → importance
-* Bias → starting point
-* Activation → decision
+## 📌 Overview
 
-## Summary
+Explains how AI systems make decisions.
 
-AI decisions follow a structured process.
+---
 
+## 🧠 Core Concepts
+
+* **Weights** → importance
+* **Bias** → starting point
+* **Activation** → decision
+
+---
+
+## 🔄 Process
+
+Input → Weights → Bias → Activation → Output
+
+---
+
+## 🎯 What I Learned
+
+AI decisions are structured, not random.
