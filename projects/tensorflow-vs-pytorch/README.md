@@ -30,21 +30,6 @@ Comparison of two popular machine learning frameworks.
 ## 🎯 What I Learned
 
 Choosing the right tool depends on the problem.
-# ⚙️ TensorFlow vs PyTorch
-
-## Overview
-
-Comparison of ML frameworks.
-
-## TensorFlow
-
-* Scalable
-* Production-ready
-
-## PyTorch
-
-* Easy to use
-* Flexible
 
 ## Conclusion
 
