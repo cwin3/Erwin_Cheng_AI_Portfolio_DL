@@ -51,6 +51,11 @@ AI is not just models — it’s data, design, and real-world usability.
 
 ---
 
+## 🔗 Resources  
+👉 [View Resources](resources/links.md)
+
+---
+
 ## 📬 Contact
 
 GitHub: https://github.com/cwin3
