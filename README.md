@@ -59,3 +59,5 @@ AI is not just models — it’s data, design, and real-world usability.
 ## 📬 Contact
 
 GitHub: https://github.com/cwin3
+Email: egr.cheng@gmail.com
+LinkedIn: https://www.linkedin.com/in/erwin-cheng-050140164/
